@@ -85,7 +85,7 @@ Telegram.WebApp.onEvent("mainButtonClicked", function(){
 	tg.sendData(item);
 });
 
-let usercard = document.getElementById("usercard");
+// let usercard = document.getElementById("usercard");
 
 // let p = document.createElement("p");
 
@@ -93,7 +93,7 @@ let usercard = document.getElementById("usercard");
 // ${tg.initDataUnsafe.user.last_name}`;
 
 
-usercard.appendChild(p); 
+// usercard.appendChild(p); 
 
 
 
